@@ -1,3 +1,2 @@
-let g:python3_host_prog = '~/.virtualenvs/pynvim/bin/python3'
-source ~/.vim/common.vim
 source ~/.vim/wsl.vim
+source ~/.vim/common.vim
