@@ -1,3 +1,2 @@
-source ~/.vim/common.vim
-" uncomment on linux!
+source ~/.vim/home.vim
 source ~/.vim/wsl.vim
